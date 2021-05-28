@@ -1,3 +1,4 @@
 init
 feature1 insert
 feature2 insert
+feature3 insert
