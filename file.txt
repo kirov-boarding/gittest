@@ -1,7 +1,1 @@
-init
-feature1 insert
-feature2 insert
-feature3 insert
-master insert
-feature4 insert1
-feature4 insert2
+file1
